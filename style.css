@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.outerDiv{
+    background-color: rgb(62, 65, 65);
+    height: 100em;
+}
+
+/* .innerDiv{
+    text-align: center;
+    } */
+
+    .main-heading{
+        text-align: center;
+        font-size: 170px;
+        color: white;
+        }
